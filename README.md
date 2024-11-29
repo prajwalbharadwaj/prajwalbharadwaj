@@ -14,7 +14,7 @@
 - **Fun Fact**: I love coffee, reading books, designing logos, learning new technologies, and listening to music while coding.
 - Feel free to ask me anything about web tech or design!
 
-<summary>🛠️ Skills & tools </summary>
+## 🛠️ Skills & tools 
 
 **Frontend:** `HTML`, `CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`
 
