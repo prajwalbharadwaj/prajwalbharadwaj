@@ -17,7 +17,9 @@
 <summary>🛠️ Skills & tools </summary>
 
 **Frontend:** `HTML`, `CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`
+
 **Design:** `Figma`, `Affinity Designer`
+
 **Tools:** `Git`, `VSCode`, `Notion`
 
 <!--
