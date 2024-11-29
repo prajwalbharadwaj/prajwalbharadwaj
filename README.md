@@ -1,8 +1,10 @@
-# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), UI/UX Designer designer and Front-End developer with 8+ years of experience.
+# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in),  and  with 8+ years of experience.
+# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), a passionate Front-End developer and UI/UX Designer designer from Abu Dhabi, UAE! I love building scalable web applications, solving complex problems and the day to day problems using web tech
+
 <br>
 
 **Connect with Me:**  
-[Portfolio](https://prajwalbharadwaj.in) | [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in)
+[Portfolio](https://prajwalbharadwaj.in) | [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -13,6 +15,7 @@
 - I Design & Build beautiful web applications.
 - **Fun Fact**: I love coffee, reading books, designing logos, learning new technologies, and listening to music while coding.
 - Feel free to ask me anything about web tech or design!
+- Always up for an adventure.
 
 ## 🛠️ Skills & tools 
 
