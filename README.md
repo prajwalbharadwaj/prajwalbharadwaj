@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), UI/UX Designer designer and Front-End developer with 8+ years of experience.
+<br>
+
+**Connect with Me:**  
+[Portfolio](https://prajwalbharadwaj.in) | [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+## ✨ About Me 
+
+- I'm currently learning **DSA & React**.
+- Always exploring the latest trends in web development.
+- I Design & Build beautiful web applications.
+- **Fun Fact**: I love coffee, reading books, designing logos, learning new technologies, and listening to music while coding.
+- Feel free to ask me anything about web tech or design!
+
+<summary>🛠️ Skills & tools </summary>
+
+**Frontend:** `HTML`, `CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`
+**Design:** `Figma`, `Affinity Designer`
+**Tools:** `Git`, `VSCode`, `Notion`
 
 <!--
 **prajwalbharadwaj/prajwalbharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +34,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
