@@ -1,6 +1,4 @@
-# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in),  and  with 8+ years of experience.
-# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), a passionate Front-End developer and UI/UX Designer designer from Abu Dhabi, UAE! I love building scalable web applications, solving complex problems and the day to day problems using web tech
-
+# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), a Front-End developer and UI/UX Designer from Abu Dhabi with 8+ years of experience.
 <br>
 
 **Connect with Me:**  
