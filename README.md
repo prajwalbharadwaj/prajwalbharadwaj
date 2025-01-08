@@ -1,4 +1,5 @@
-# Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), a Front-End developer and UI/UX Designer with 8+ years of experience.
+# Hi 👋, 
+I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), a Front-End developer and UI/UX Designer with 8+ years of experience.
 <br>
 
 **Connect with Me:**  
