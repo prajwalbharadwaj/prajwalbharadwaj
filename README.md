@@ -3,7 +3,11 @@
 
 **Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
-
+<p>
+   <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+   <a href="https://www.linkedin.com/in/prajwalrbharadwaj/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.instagram.com/bharadwaj_designs/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ About Me 
@@ -17,20 +21,25 @@
 
 ## 🛠️ Skills & tools 
 
-<!--**Frontend:** `HTML`, `CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`, `UnoCSS`, `DHTMLX`-->
-**Frontend:** <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+**Frontend:** <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" />
    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+   <img alt="PWA" src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+   <img alt="PrimeVue" src="https://img.shields.io/badge/-PrimeVue-41B883?style=flat-square&logo=primevue&logoColor=white" />
+   <img alt="Vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
    <img alt="UnoCSS" src="https://img.shields.io/badge/-UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white" />
-<!--`CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`, `UnoCSS`, `DHTMLX`-->
-
-**Design:** `Figma`, `Affinity Designer`
-
-**Tools:** `Git`, `VSCode`, `Notion`
+   
+**Design:** <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+   <img alt="Affinity Designer" src="https://img.shields.io/badge/-Affinity Designer-134881?style=flat-square&logo=affinitydesigner&logoColor=white" />
+   
+**Tools:** <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 
 <!--
 **prajwalbharadwaj/prajwalbharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
