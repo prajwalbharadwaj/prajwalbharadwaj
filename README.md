@@ -1,8 +1,10 @@
 # Hi 👋, I'm [Prajwal Bharadwaj](https://prajwalbharadwaj.in), a Front-End developer and UI/UX Designer with 8+ years of experience.
 <br>
 
-**Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
+**Connect with Me:** 
+<p>
+   [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
+</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ About Me 
