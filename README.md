@@ -18,6 +18,8 @@
 ## 🛠️ Skills & tools 
 
 **Frontend:** `HTML`, `CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`, `UnoCSS`, `DHTMLX`
+**Frontend:** <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />, 
+`CSS`, `JavaScript`, `Vue.js`, `Tailwind CSS`, `SCSS`, `UnoCSS`, `DHTMLX`
 
 **Design:** `Figma`, `Affinity Designer`
 
