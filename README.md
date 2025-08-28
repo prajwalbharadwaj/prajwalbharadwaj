@@ -2,9 +2,8 @@
 <br>
 
 **Connect with Me:** 
-<p>
-   [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
-</p>
+[LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ About Me 
