@@ -3,11 +3,6 @@
 
 **Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/prajwalrbharadwaj/) | [Instagram](https://www.instagram.com/bharadwaj_designs/) | [Website](https://prajwalbharadwaj.in) | Email: prajwalrb17@gmail.com
-<p>
-   <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-   <a href="https://www.linkedin.com/in/prajwalrbharadwaj/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-   <a href="https://www.instagram.com/bharadwaj_designs/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF0069?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ About Me 
