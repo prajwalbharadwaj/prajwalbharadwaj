@@ -11,8 +11,8 @@
 - I'm currently learning **DSA & React**.
 - Always exploring the latest trends in web development.
 - I Design & Build beautiful web applications.
-- **Fun Fact**: I love coffee, reading books, designing logos, learning new technologies, and listening to music while coding.
 - Feel free to ask me anything about web tech or design!
+- **Fun Fact**: I love coffee, reading books, cycle rides, designing logos, learning new technologies, and listening to music while coding.
 - Always up for an adventure.
 
 ## 🛠️ Skills & tools 
